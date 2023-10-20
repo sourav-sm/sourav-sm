@@ -1,3 +1,4 @@
+![logo](https://github.com/sourav-sm/sourav-sm/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Sourav Mohanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
