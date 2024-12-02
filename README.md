@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav-sm" alt="sourav-sm" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://sourav-mohanta.vercel.app/)
+- 🔭 Passionate about building innovative solutions that help others and create impactful technologies.
 
-- 👨‍💻 All of my projects are available at [https://sourav-mohanta.vercel.app/](https://sourav-mohanta.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio]](https://sourav-mohanta.vercel.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **ReactJs,Nodejs,Express,MongoDb,MySQL,NEXTJS**
 
-- 📫 How to reach me **developersourav135@gmail.com**
+- 📫 How to reach me **souravmohanta4428@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1A_4XLRxai-nvdMktQdO-X7U33Lq4cTNF](https://drive.google.com/drive/folders/1A_4XLRxai-nvdMktQdO-X7U33Lq4cTNF)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1D8U7Gko6H9gxoYgSQyMa7zUcwgCnyM_i/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
