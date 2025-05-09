@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **souravmohanta4428@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zxSYLpUXHH0QgkZhQNtw7EaG1QvqaEGR/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yEOPgh9fRvA1_DfH92_egJwUHxvm61_D/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
