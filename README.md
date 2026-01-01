@@ -7,7 +7,7 @@
 
 - 🔭 Passionate about building innovative solutions that help others and create impactful technologies.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://sourav-mohanta.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.itssm.dev/)
 
 - 💬 Ask me about **ReactJs,Nodejs,Express,MongoDb,MySQL,NEXTJS**
 
