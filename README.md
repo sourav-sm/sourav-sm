@@ -192,20 +192,24 @@ Git, GitHub, Postman, VS Code, Linux
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourav-sm&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-sm&layout=compact&theme=tokyonight" height="160"/>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav-sm&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-sm&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-sm&theme=tokyonight"/>
-</p>
+  <img src="https://streak-stats.demolab.com?user=sourav-sm&theme=tokyonight&hide_border=true" />
+</p> -->
+
+## 📊 GitHub Stats
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourav-sm&theme=github-dark)](https://github.com/sourav-sm)
+
+
 
 ---
-
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sourav-sm/sourav-sm/output/github-contribution-grid-snake.svg" />
-</p>
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/sourav-sm/sourav-sm/output/github-contribution-grid-snake.svg" /> -->
+<!-- </p> -->
 
 
