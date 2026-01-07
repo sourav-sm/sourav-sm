@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sourav Mohanta</h1>
+<!-- <h1 align="center">Hi 👋, I'm Sourav Mohanta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav-sm&label=Profile%20views&color=0e75b6&style=flat" alt="sourav-sm" /> </p>
@@ -35,4 +35,177 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourav-sm&show_icons=true&locale=en" alt="sourav-sm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-sm&" alt="sourav-sm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-sm&" alt="sourav-sm" /></p> -->
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- <h1 align="center">Hi 👋, I'm Sourav Mohanta</h1>
+<h3 align="center">Full Stack Developer | Backend-Focused | Problem Solver</h3>
+
+<p align="center">
+  <a href="https://www.itssm.dev/" target="_blank"><b>Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/sourav-mohanta-756815223/" target="_blank"><b>LinkedIn</b></a> •
+  <a href="mailto:souravmohanta4428@gmail.com"><b>Email</b></a> •
+  <a href="https://drive.google.com/file/d/1yEOPgh9fRvA1_DfH92_egJwUHxvm61_D/view" target="_blank"><b>Resume</b></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sourav-sm&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 **B.Tech (2025)** graduate from **NIT Durgapur**
+- 💡 Passionate about building **scalable web applications** and **backend systems**
+- 🛠️ Strong foundation in **DSA, REST APIs, Databases, and System Design basics**
+- 🚀 Actively preparing for **SDE roles at product-based companies**
+- 🌱 Constantly learning and improving through real-world projects
+
+---
+
+### 🧠 Tech Stack
+**Languages**
+- C, C++, JavaScript, TypeScript
+
+**Frontend**
+- React.js, Next.js, HTML, CSS, Tailwind CSS
+
+**Backend**
+- Node.js, Express.js
+
+**Databases**
+- MongoDB, MySQL
+
+**Tools & Platforms**
+- Git & GitHub, REST APIs, Postman, Vercel
+
+---
+
+### 🔗 Coding Profiles
+<p align="left">
+  <a href="https://leetcode.com/souravmohanta4428/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/sourav_4428" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/souravmohanta441" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=sourav-sm&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav-sm&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-sm&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-sm&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Let’s Connect
+If you're looking for a **motivated SDE with strong fundamentals and real project experience**, feel free to reach out.  
+I'm always open to **learning opportunities, referrals, and collaborations** 🚀 -->
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<h1 align="center">Hi 👋, I'm Sourav Mohanta</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Open+source+Contributer;Full+Stack+Developer;Backend-Focused+Engineer;Problem+Solver+%26+Lifelong+Learner" />
+</p>
+
+<p align="center">
+  <a href="https://www.itssm.dev/" target="_blank"><b>Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/souravmohanta21/" target="_blank"><b>LinkedIn</b></a> •
+  <a href="mailto:souravmohanta4428@gmail.com"><b>Email</b></a> •
+  <a href="https://drive.google.com/file/d/1dp7piZT01Evvqh8cX6plpyC2Xhro-PFr/view?usp=sharing" target="_blank"><b>Resume</b></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sourav-sm&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👨‍💻 About Me
+- 🎓 **B.Tech (2025)** graduate from **NIT Durgapur**
+- 💡 Passionate about building **scalable backend systems**
+- 🧠 Strong in **DSA, REST APIs, Databases, and RESTful APIs**
+- 🚀 Open to Software Development Engineer (SDE) roles at product-based companies and fast-growing startups**
+- 🌱 Learning **system design and backend optimization**
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" alt="coding animation"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧠 Tech Stack
+
+**Languages**  
+C++, JavaScript, TypeScript, Python  
+
+**Backend**  
+Node.js, Express.js, NestJS, REST APIs, Microservices, MVC Architecture  
+
+**Frontend**  
+React.js, Next.js, Redux, Zustand, HTML, CSS, Tailwind CSS  
+
+**Databases**  
+PostgreSQL, MongoDB, MySQL, Redis  
+
+**ORMs**  
+Prisma, Drizzle ORM  
+
+**Cloud & DevOps**  
+AWS (EC2), Docker, GitHub Actions (CI/CD), DigitalOcean, Vercel, Cloudflare  
+
+**Developer Tools**  
+Git, GitHub, Postman, VS Code, Linux  
+
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav-sm&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-sm&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-sm&theme=tokyonight"/>
+</p>
+
+---
+
+### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sourav-sm/sourav-sm/output/github-contribution-grid-snake.svg" />
+</p>
+
+
